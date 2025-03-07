@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jonathan Pearl
 - 👀 I’m interested in Data Science / Data Analytics / Machine Learning / Deep Learining
-- 🌱 I’ve COmpleted my MSc Data Science and Analytics
+- 🌱 I’ve completed my MSc Data Science and Analytics
 - 📫 Email : jonathan.mpearl38@gmail.com
 
 <!---
