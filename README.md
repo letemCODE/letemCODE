@@ -39,4 +39,4 @@ I am actively seeking new **opportunities within data science and business intel
 I'm always open to discussing new projects, collaboration opportunities, or data science insights. Feel free to connect or explore my work!
 
 * [https://www.linkedin.com/in/jpearl-089](https://www.linkedin.com/in/jpearl-089)
-* [Email](jonathan.mpearl38@gmail.com)
+* [Email][jonathan.mpearl38@gmail.com]
